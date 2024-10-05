@@ -10,7 +10,7 @@ Uma programadora apaixonada do Brasil, <p></p>
 <p></p>⚡Let's get it<p></p>
    <br></br>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozzy589&layout=compact)
 
 
 <br>
