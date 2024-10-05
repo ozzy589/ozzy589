@@ -8,6 +8,10 @@ Uma programadora apaixonada do Brasil, <p></p>
 <p>📫Como ode me achar, por Email: ozzyvitoria01@gmail.com.  </p>
 <p>📱WhatsApp: (14)998909269.</p>
 <p></p>⚡Let's get it<p></p>
+   <br></br>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 <br>
 </br>
@@ -20,7 +24,7 @@ Uma programadora apaixonada do Brasil, <p></p>
 )](https://twitch.tv/fragabr)
  <a href="https://wa.me/5514998909269?text=Olá!%20Vim%20do%20seu%20GitHub!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-
+ 
 ## Tecnologias que eu uso no meu dia
 
 
@@ -35,4 +39,5 @@ Uma programadora apaixonada do Brasil, <p></p>
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </div><br/>
+
 
